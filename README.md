@@ -1,2 +1,6 @@
-# TpGit
-TpGit24/10/2019
+Capgemini est une entreprise mondiale de services numériques, spécialisée dans la transformation numérique, le conseil et les technologies de l'information. Elle aide les entreprises à adopter des solutions cloud, l'intelligence artificielle, et à optimiser leurs processus grâce aux technologies numériques. L'objectif de Capgemini est de permettre à ses clients de rester compétitifs et innovants dans un monde en évolution constante. Les enjeux majeurs de l'entreprise incluent la croissance durable, l'innovation technologique et la cybersécurité. Elle s'engage également à promouvoir la responsabilité sociétale et à attirer les meilleurs talents dans le secteur informatique.
+
+=============================================
+Le projet La Poste visait à améliorer et moderniser les services en ligne pour les clients de l'entreprise, en facilitant la gestion des colis et courriers ainsi que les informations de suivi en temps réel. L'objectif était de créer une plateforme sécurisée, évolutive et conviviale pour les utilisateurs. L'équipe de projet était composée de trois développeurs, de deux testeurs, d'un Scrum Master et d'un Product Owner, permettant ainsi une collaboration agile et efficace pour répondre aux besoins des utilisateurs tout en garantissant la qualité des livrables. Cette composition d'équipe a permis de combiner expertise technique et gestion de projet, favorisant l'innovation et la réactivité face aux exigences du marché.
+===================================================
+
