@@ -27,3 +27,13 @@ Au cours des trois dernières années, j'ai travaillé chez GlobalS2I en tant qu
   Ces technologies m'ont permis de développer mes compétences en développement backend avec Spring 
   et en développement frontend avec Angular. J'ai également acquis une expérience pratique dans l'intégration continue, 
   la gestion de version avec Git et la gestion des bases de données.
+
+  ===============================
+Architecture distribuée
+Topics et partitions
+Durabilité des messages
+Haute disponibilité et tolérance aux pannes
+Scalabilité horizontale
+Modèle de consommation basé sur le groupe de consommateurs
+API flexibles pour les producteurs et consommateurs
+Streaming en temps réel avec Kafka Streams
